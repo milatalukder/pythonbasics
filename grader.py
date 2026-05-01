@@ -1,4 +1,3 @@
-# Student Grading System
 name = input("Enter Student Name: ")
 marks = float(input("Enter marks (0-100): "))
 
